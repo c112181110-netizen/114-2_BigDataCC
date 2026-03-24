@@ -1,7 +1,7 @@
 姓名：凌賜桐
 學號：C112181110
 
-=== 任務 1：用 nano 建立 intro.txt ===
+=== 任務 1：用 nano 建立 intro.txt ====
 student113@linux-server1:~$ cat ~/intro.txt
   姓名：凌賜桐
   學號：C112181110
